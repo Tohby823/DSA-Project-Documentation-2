@@ -102,23 +102,35 @@ The Power BI dashboard includes the following visuals:
 ###  Key Insights
 
 1. Gender Distribution
-- Male-dominated in several departments and regions such as Accounting, Legal and Product Management in Abuja, Sales and Training in Kaduna and Training in Lagos.
-- Disparities most visible in the Legal, Support and Accounting departments
-- There was a significant female domination in the Research and Development department in Lagos.
+ - Male-dominated in several departments and regions such as Accounting, Legal and Product Management in Abuja, Sales and Training in Kaduna and Training in Lagos.
+ - Disparities most visible in the Legal, Support and Accounting departments
+ - There was a significant female domination in the Research and Development department in Lagos.
 2. Performance Ratings by Gender
-- "Very Good" and "Good" ratings are skewed toward females in most regions.
+ - "Very Good" and "Good" ratings are skewed toward females in most regions.
 3. Salary Structure and Gender Pay Gap
-- Significant average salary differences observed in Legal, Business Development, Accounting and Support departments with the males receiving the average higher pay.
-- Significant average salary differences observed in Marketing and Engineering departments with the females receiving the average higher pay.
+ - Significant average salary differences observed in Legal, Business Development, Accounting and Support departments with the males receiving the average higher pay.
+ - Significant average salary differences observed in Marketing and Engineering departments with the females receiving the average higher pay.
 4. Salary Distribution and Minimum Wage Compliance
-- Many employees fall below the regulatory $90,000 salary threshold with a percentage of 30.97% giving the number of 292 employees.
-- Lagos region had the least compliant salaries (8.91%), next was Abuja (10.29%) then Kaduna (11.77%) with the most compliant.
+ - Many employees fall below the regulatory $90,000 salary threshold with a percentage of 30.97% giving the number of 292 employees.
+ - Lagos region had the least compliant salaries (8.91%), next was Abuja (10.29%) then Kaduna (11.77%) with the most compliant.
 5. Salary Band Distribution
-- 
+   
+  |Salary Range|Number of Employees|
+  | ----------- | ------------------ |
+  |$20000-$30000|26|
+   |$30000-$40000|103|
+  |$40000-$50000|105|
+   |$50000-$60000|94|
+    |$60000-$70000|98|
+    |$70000-$80000|117|
+    |$80000-$90000|108|
+   |$90000-$100000|90|
+   |$100000-$110000|105|
+   |$110000-$120000|97|
 6. Bonus and Total Pay Analysis
-- Bonuses are performance-linked and differ per department.
-- Top earners cluster around Sales and Product Management roles.
-- Bonus payouts highest in the Lagos region.
+ - Bonuses are performance-linked and differ per department.
+ - Top earners cluster around Sales and Product Management roles.
+ - Bonus payouts highest in the Lagos region.
 
 ---
 
@@ -139,3 +151,6 @@ The Power BI dashboard includes the following visuals:
 - Audit and rectify gender pay gaps.
 - Ensure full compliance with regulatory salary thresholds.
 - Standardize performance ratings to reduce bias.
+
+ ### Limitations
+ -_ Data Duplication_: Some employees have multiple entries in the dataset, often with differing performance ratings or location assignments. This duplication could lead to inaccurate analysis of headcount, performance distribution, regional staffing, or bonus calculations, as the same individual may be counted more than once or assigned conflicting attributes.
