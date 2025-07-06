@@ -149,9 +149,13 @@ The Power BI dashboard includes the following visuals:
 ![Visualization charts.png](https://github.com/user-attachments/assets/92bbbe8e-b1f9-4d7c-8757-74cf576e3b08)
 
 
+
 ![Visualization of Bonus Pay.png](https://github.com/user-attachments/assets/a7ae5598-599f-433d-bcb7-1f4724e06b4f)
 
+
+
 ![Visualization of Gender distribtion by average salary and employees by salary band.png](https://github.com/user-attachments/assets/82678605-08cc-4f0f-a9b2-a55a5c1456ef)
+
 
 
 ![Visualization of gender distribution based on department and location.png](https://github.com/user-attachments/assets/39a7e053-12ff-433d-8e0e-314de5b43bcf)
@@ -170,4 +174,9 @@ The Power BI dashboard includes the following visuals:
 - Standardize performance ratings to reduce bias.
 
  ### Limitations
- -_ Data Duplication_: Some employees have multiple entries in the dataset, often with differing performance ratings or location assignments. This duplication could lead to inaccurate analysis of headcount, performance distribution, regional staffing, or bonus calculations, as the same individual may be counted more than once or assigned conflicting attributes.
+ - Some employees have multiple entries in the dataset, often with differing performance ratings or location assignments. This duplication could lead to inaccurate analysis of headcount, performance distribution, regional staffing, or bonus calculations, as the same individual may be counted more than once or assigned conflicting attributes.
+ - A number of employees did not disclose their gender; these were grouped under “Unspecified,” which may affect the accuracy of gender-based insights.
+
+### References
+- Palmoria Group HR Case Study Dataset (provided as part of project brief)
+- Bonus Table Excel Dataset
