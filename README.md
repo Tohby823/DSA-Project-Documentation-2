@@ -56,7 +56,7 @@ Key steps taken to prepare the dataset include:
 
 ---
 
-### 🔍 Exploratory HR Analysis
+### Exploratory HR Analysis
 
 Core business questions explored:
 
@@ -90,38 +90,48 @@ Core business questions explored:
 
 The Power BI dashboard includes the following visuals:
 
-- Donut chart: Gender distribution
-- Bar chart: Gender by region and department
-- Scatter plot: Rating vs Salary by Gender
-- Clustered bar chart: Salary band distribution ($10k intervals)
-- KPI Cards: Total employees, average salary, gender pay gap percentage
-- Matrix: Bonus payout per region and total pay (salary + bonus)
+- **Donut chart**: Gender distribution by salary, count of salary by compliance status and department.
+- **Pie chart**: Count of salary by compliance status and location.
+- **Clustered column chart**: Salary band distribution ($10k intervals), count of gender by location, department and rating.
+- **Stacked column chart**: Sum of bonus by location, sum of total pay by location.
+- **Matrix**: Count of gender bt location, count of gender by department.
+- **Cards**: Sum of Bonus pay and total pay by the company
 
 ---
 
 ###  Key Insights
 
-- **Gender Imbalance**: Certain departments and regions showed significant male overrepresentation.
-- **Rating Trends**: Average ratings between genders were similar, but females slightly outperformed in some departments.
-- **Pay Gap**: Male employees earned more on average in 2 out of 3 regions, with the largest gap in Region A.
-- **Salary Compliance**: Approximately 18% of employees earned below the $90,000 minimum wage, primarily in junior roles.
-- **Bonus Allocation**: High-performing employees received up to 20% in bonus; total payout exceeded $2M company-wide.
+1. Gender Distribution
+- Male-dominated in several departments and regions.
+- Disparities most visible in Sales and Engineering departments
+2. Performance Ratings by Gender
+- "Very Good" and "Good" ratings are skewed toward males in most regions.
+3. Gender Pay Gap
+- Significant average salary differences observed in Legal and Engineering departments.
+4. Salary Distribution & Compliance
+- Many employees fall below the regulatory $90,000 salary threshold.
+- Lagos region had more compliant salaries than others.
+5. Bonus & Total Pay Analysis
+- Bonuses are performance-linked and differ per department.
+- Top earners cluster around Sales and Product Management roles.
+- Bonus payouts highest in the Lagos region.
 
 ---
 
-###  Bonus Rule Logic
+###  Bonus Salary Fomula
 
-| Performance Rating Range | Bonus % |
-|--------------------------|---------|
-| 4.5 – 5.0                | 20%     |
-| 4.0 – 4.49               | 15%     |
-| 3.5 – 3.99               | 10%     |
-| Below 3.5                | 5%      |
-
-**Formula:**
 - `Bonus = Salary × Bonus%`
 - `Total Pay = Salary + Bonus`
 
 ---
 
-### Project Structure
+### Tools Used
+- Power BI
+- Microsoft Excel
+- GitHub
+
+###  Recommendations
+- Improve gender balance in key departments.
+- Audit and rectify gender pay gaps.
+- Ensure full compliance with regulatory salary thresholds.
+- Standardize performance ratings to reduce bias.
