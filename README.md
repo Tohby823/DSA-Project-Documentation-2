@@ -127,10 +127,11 @@ The Power BI dashboard includes the following visuals:
    |$90000-$100000|90|
    |$100000-$110000|105|
    |$110000-$120000|97|
+   
 6. Bonus and Total Pay Analysis
  - Bonuses are performance-linked and differ per department.
- - Top earners cluster around Sales and Product Management roles.
- - Bonus payouts highest in the Lagos region.
+ - Top earners cluster around Business Development, Training and Marketing roles.
+ - Bonus payouts highest in the Kaduna region and lowest in the Lagos region.
 
 ---
 
