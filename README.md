@@ -2,13 +2,13 @@
 
 Power BI analysis of HR data from Palmora Group, uncovering gender distribution, salary gaps, performance trends, and bonus allocations to support data-driven decision-making.
 
-# 📊 Power BI Project Documentation
+#  Power BI Project Documentation
 
-This project is part of a capstone case study in the **Power BI Data Analysis Program**, aimed at uncovering gender-related HR issues within a Nigerian manufacturing company—**Palmora Group**—through strategic HR data visualization and insight generation.
+This project is part of a capstone case study in the **Power BI Data Analysis Program**, aimed at uncovering gender-related HR issues within a Nigerian manufacturing company (**Palmora Group**) through strategic HR data visualization and insight generation.
 
 ## Project Topic: Gender Equality in the Workplace | Strategic HR Analysis at Palmora Group
 
-### 🧭 Project Overview
+### Project Overview
 
 Palmora Group, a regional manufacturing firm based in Nigeria, was recently criticized in the media for potential gender bias in its employment practices. As an HR Data Analyst, I was tasked with investigating the organization's gender landscape using Power BI.
 
@@ -21,7 +21,7 @@ This analysis focuses on:
 
 The final outcome includes a comprehensive dashboard visualizing trends, highlighting inequalities, and supporting management’s decisions with clear, actionable insights.
 
-### 📁 Data Sources
+###  Data Sources
 
 The primary datasets used for this analysis are:
 
@@ -30,7 +30,7 @@ The primary datasets used for this analysis are:
 
 These were provided as part of the HR Analytics case files.
 
-### 🛠️ Tools Used
+###  Tools Used
 
 - **Power BI**
   - Data cleaning (Power Query)
@@ -44,7 +44,7 @@ These were provided as part of the HR Analytics case files.
 
 ---
 
-### 🧼 Data Cleaning & Preparation
+###  Data Cleaning & Preparation
 
 Key steps taken to prepare the dataset include:
 
@@ -86,7 +86,7 @@ Core business questions explored:
 
 ---
 
-### 📊 Visualizations & Dashboard Highlights
+###  Visualizations & Dashboard Highlights
 
 The Power BI dashboard includes the following visuals:
 
@@ -99,7 +99,7 @@ The Power BI dashboard includes the following visuals:
 
 ---
 
-### 📈 Key Insights
+###  Key Insights
 
 - **Gender Imbalance**: Certain departments and regions showed significant male overrepresentation.
 - **Rating Trends**: Average ratings between genders were similar, but females slightly outperformed in some departments.
@@ -109,7 +109,7 @@ The Power BI dashboard includes the following visuals:
 
 ---
 
-### 💰 Bonus Rule Logic
+###  Bonus Rule Logic
 
 | Performance Rating Range | Bonus % |
 |--------------------------|---------|
@@ -124,4 +124,4 @@ The Power BI dashboard includes the following visuals:
 
 ---
 
-### 📁 Project Structure
+### Project Structure
