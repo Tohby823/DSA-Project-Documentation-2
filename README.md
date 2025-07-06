@@ -145,7 +145,11 @@ The Power BI dashboard includes the following visuals:
 ### Analysis
 
 
-[Power BI Analysis](https://github.com/Tohby823/DSA-Project-Documentation-POWER-BI/blob/main/PALMORIA%20POWER%20BI.pbix)
+
+![Visualization charts.png](https://github.com/user-attachments/assets/92bbbe8e-b1f9-4d7c-8757-74cf576e3b08)
+
+
+
 
 ### Tools Used
 - Power BI
