@@ -80,7 +80,7 @@ Core business questions explored:
    - How many employees fall into each $10,000 salary band?
    - Regional distribution of these bands
 
-6. **Bonus Allocation**
+6. **Bonus and Total Pay Analysis**
    - How much bonus should each employee receive based on performance?
    - What is the total payout per region and across the company?
 
@@ -102,16 +102,20 @@ The Power BI dashboard includes the following visuals:
 ###  Key Insights
 
 1. Gender Distribution
-- Male-dominated in several departments and regions.
-- Disparities most visible in Sales and Engineering departments
+- Male-dominated in several departments and regions such as Accounting, Legal and Product Management in Abuja, Sales and Training in Kaduna and Training in Lagos.
+- Disparities most visible in the Legal, Support and Accounting departments
+- There was a significant female domination in the Research and Development department in Lagos.
 2. Performance Ratings by Gender
-- "Very Good" and "Good" ratings are skewed toward males in most regions.
-3. Gender Pay Gap
-- Significant average salary differences observed in Legal and Engineering departments.
-4. Salary Distribution & Compliance
-- Many employees fall below the regulatory $90,000 salary threshold.
-- Lagos region had more compliant salaries than others.
-5. Bonus & Total Pay Analysis
+- "Very Good" and "Good" ratings are skewed toward females in most regions.
+3. Salary Structure and Gender Pay Gap
+- Significant average salary differences observed in Legal, Business Development, Accounting and Support departments with the males receiving the average higher pay.
+- Significant average salary differences observed in Marketing and Engineering departments with the females receiving the average higher pay.
+4. Salary Distribution and Minimum Wage Compliance
+- Many employees fall below the regulatory $90,000 salary threshold with a percentage of 30.97% giving the number of 292 employees.
+- Lagos region had the least compliant salaries (8.91%), next was Abuja (10.29%) then Kaduna (11.77%) with the most compliant.
+5. Salary Band Distribution
+- 
+6. Bonus and Total Pay Analysis
 - Bonuses are performance-linked and differ per department.
 - Top earners cluster around Sales and Product Management roles.
 - Bonus payouts highest in the Lagos region.
