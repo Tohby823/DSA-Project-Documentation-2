@@ -4,13 +4,13 @@ Power BI analysis of HR data from Palmora Group, uncovering gender distribution,
 
 #  Power BI Project Documentation
 
-This project is part of a capstone case study in the **Power BI Data Analysis Program**, aimed at uncovering gender-related HR issues within a Nigerian manufacturing company (**Palmora Group**) through strategic HR data visualization and insight generation.
+This project is part of a capstone case study in the **Power BI Data Analysis Program**, aimed at uncovering gender-related HR issues within a Nigerian manufacturing company (**Palmoria Group**) through strategic HR data visualization and insight generation.
 
-## Project Topic: Gender Equality in the Workplace | Strategic HR Analysis at Palmora Group
+## Project Topic: Gender Equality in the Workplace | Strategic HR Analysis at Palmoria Group
 
 ### Project Overview
 
-Palmora Group, a regional manufacturing firm based in Nigeria, was recently criticized in the media for potential gender bias in its employment practices. As an HR Data Analyst, I was tasked with investigating the organization's gender landscape using Power BI.
+Palmoria Group, a regional manufacturing firm based in Nigeria, was recently criticized in the media for potential gender bias in its employment practices. As an HR Data Analyst, I was tasked with investigating the organization's gender landscape using Power BI.
 
 This analysis focuses on:
 - Gender representation across departments and regions
@@ -25,8 +25,8 @@ The final outcome includes a comprehensive dashboard visualizing trends, highlig
 
 The primary datasets used for this analysis are:
 
-- `Palmora Group emp-data.csv`: Contains employee information including gender, department, region, salary, and performance rating.
-- `Palmora Group Bonus Rules.xlsx`: Contains business logic for assigning bonus payments based on employee performance.
+- `Palmoria Group emp-data.csv`: Contains employee information including gender, department, region, salary, and performance rating.
+- `Palmoria Group Bonus Rules.xlsx`: Contains business logic for assigning bonus payments based on employee performance.
 
 These were provided as part of the HR Analytics case files.
 
@@ -179,4 +179,4 @@ The Power BI dashboard includes the following visuals:
 
 ### References
 - Palmoria Group HR Case Study Dataset (provided as part of project brief)
-- Bonus Table Excel Dataset
+- Palmoria Group Bonus Rules Excel Dataset
